@@ -1,6 +1,2 @@
-
-# Üniversite Yönetim Sistemi UML Diyagramı
-
-![uml diyagramı](uml.png)
-=======
+Kodluyoruz java backend developer başlangıç patikası
 
